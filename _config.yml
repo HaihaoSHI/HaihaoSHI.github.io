@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # Currently available options are "default", "air"
-title                    : "Haihao Shi"
+title                    : "Welcome to Haihao Shi's personal homepage！"
 title_separator          : "-"
 name                     : "Welcome to Haihao Shi's personal homepage！"
 description              : "A person wandering at the edge of the crowd."
