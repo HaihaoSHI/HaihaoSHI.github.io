@@ -26,10 +26,3 @@ Feel free to explore my [publications](/publications/), [portfolio](/portfolio/)
 * **Is Dark Matter Spinning Up the Earth? New Research Says Yes** <br>
     *NASA Space News, Apr 2025* <br>
     A news article highlighting our study on the possible influence of dark matter on planet's rotation. \[[Read More](https://nasaspacenews.com/2025/04/is-dark-matter-spinning-up-the-earth-new-research-says-yes/)]
-
-
-
-* **Aug 2025**: My personal homepage is now live!
-* **Aug 2025**: I am actively seeking Ph.D. opportunities for Fall 2026. Please feel free to reach out if you are interested in my research.
-* **Jun 2025**: Presented a poster titled "[Your Poster Title]" at the [Conference Name].
-* **Jan 2025**: Our paper on [your research topic] has been submitted to [Journal or Conference Name] for review.
