@@ -24,9 +24,9 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Haihao Shi(史海浩)"
-  pronouns         : "her"  
-  bio              : "Currently walking on the boundary of knowledge"
-  location         : "China,Kunming"
+  pronouns         :  #"her"  
+  bio              : "A graduate student in particle astrophysics"
+  location         : "China"
   employer         : "Chinese Academy of Sciences"
   uri              : "https://haihaoshi.github.io/"
   email            : "shihaihaomails.ucas.ac.cn" 
