@@ -1,6 +1,7 @@
 ---
 permalink: /
 title: "Haihao Shi"
+excerpt:"Haihao Shi"
 author_profile: true
 redirect_from: 
   - /about/
