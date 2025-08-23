@@ -13,7 +13,7 @@ I am Haihao SHI, a third-year Master's student in Astrophysics at the University
 
 My research interests lie at the intersection of **Interpretable Machine Learning (XAI)** and **Particle Astrophysics**. I am dedicated to developing novel methodological paradigms, aiming to leverage advanced machine learning techniques to address fundamental questions in astrophysics.
 
-Feel free to explore my [publications](/publications/), [portfolio](/portfolio/), or download my [CV](/cv/).
+Feel free to explore my [publications](/publications/), download my [CV](/cv/) or other modules of the website.
 
 ---
 
