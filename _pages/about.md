@@ -27,9 +27,7 @@ Feel free to explore my [publications](/publications/), [portfolio](/portfolio/)
     *NASA Space News, Apr 2025* <br>
     A news article highlighting our study on the possible influence of dark matter on planet's rotation. \[[Read More](https://nasaspacenews.com/2025/04/is-dark-matter-spinning-up-the-earth-new-research-says-yes/)]
 
----
 
-## News
 
 * **Aug 2025**: My personal homepage is now live!
 * **Aug 2025**: I am actively seeking Ph.D. opportunities for Fall 2026. Please feel free to reach out if you are interested in my research.
