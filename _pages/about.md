@@ -1,38 +1,38 @@
 ---
 permalink: /
-title: "Haihao SHI (石海皓)"
+title: "Haihao SHI"
 excerpt: "About me"
 author_profile: true
 ---
 
-## 关于我 (About Me)
+## About Me
 
-你好，我是 **石海皓 (Haihao SHI)**。
+I am Haihao SHI, a third-year Master's student in Astrophysics at the University of Chinese Academy of Sciences (UCAS), expecting to graduate in 2026.
 
-我目前是中国科学院大学 (UCAS) 天体物理专业的一名硕士三年级学生，预计将于2026年毕业。**我正在积极寻找2026年秋季入学的博士研究生 (Ph.D.) 职位。**
+**I am actively seeking a Ph.D. position for Fall 2026 admission.**
 
-我的研究兴趣在于**可解释性机器学习 (Interpretable Machine Learning)** 与 **粒子天体物理 (Particle Astrophysics)** 的交叉领域。我致力于探索和研究新的方法论范式，旨在利用前沿的机器学习技术来解决天体物理学中的基础问题。
+My research interests lie at the intersection of **Interpretable Machine Learning (XAI)** and **Particle Astrophysics**. I am dedicated to developing novel methodological paradigms, aiming to leverage advanced machine learning techniques to address fundamental questions in astrophysics.
 
-欢迎通过本站了解我的 [学术论文](/publications/) 和 [项目经历](/portfolio/)，你也可以在这里下载我的 [完整简历](/cv/)。
-
----
-
-## 精选成果 (Research Highlights)
-
-* **[这里是你的论文标题]** <br>
-    **Haihao SHI**, [其他作者] <br>
-    *发表于 [期刊或会议名称], 2025* <br>
-    \[[PDF](/files/your-paper.pdf)] \[[代码](https://github.com/your-repo)] \[[项目主页](link-to-project-page)]
-
-* **[这里是新闻报道的标题]** <br>
-    *[新闻媒体或网站名称], 2025年8月* <br>
-    一篇关于我们利用可解释性AI分析宇宙线数据的研究成果的报道。 \[[阅读全文](link-to-news-article)]
+Feel free to explore my [publications](/publications/), [portfolio](/portfolio/), or download my [CV](/cv/).
 
 ---
 
-## 最新动态 (News)
+## Research Highlights
 
-* **2025年8月**: 本人个人主页搭建完成！
-* **2025年8月**: 目前正在积极寻找2026年秋季入学的博士项目，欢迎对我的研究感兴趣的老师与我联系。
-* **2025年6月**: 在 [你参加的会议或研讨会名称] 上，展示了题为“[你的报告题目]”的海报。
-* **2025年1月**: 我们关于 [你的研究课题] 的论文已提交至 [期刊或会议名称] 审稿。
+* **[Your Paper Title Here]** <br>
+    **Haihao SHI**, [Other Authors] <br>
+    *Published in [Journal or Conference Name], 2025* <br>
+    \[[PDF](/files/your-paper.pdf)] \[[Code](https://github.com/your-repo)] \[[Project Page](link-to-project-page)]
+
+* **[Title of the News Article]** <br>
+    *[Name of the Media Outlet], Aug 2025* <br>
+    A news feature on our research using explainable AI to analyze cosmic ray data. \[[Read More](link-to-news-article)]
+
+---
+
+## News
+
+* **Aug 2025**: My personal homepage is now live!
+* **Aug 2025**: I am actively seeking Ph.D. opportunities for Fall 2026. Please feel free to reach out if you are interested in my research.
+* **Jun 2025**: Presented a poster titled "[Your Poster Title]" at the [Conference Name].
+* **Jan 2025**: Our paper on [your research topic] has been submitted to [Journal or Conference Name] for review.
