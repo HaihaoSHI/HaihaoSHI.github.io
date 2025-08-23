@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Haihao SHI"
+title: "Welcome to Haihao Shi's personal homepage！"
 excerpt: "About me"
 author_profile: true
 ---
