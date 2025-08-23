@@ -17,16 +17,15 @@ Feel free to explore my [publications](/publications/), [portfolio](/portfolio/)
 
 ---
 
-## Research Highlights
+## Some media-noticed articles
 
-* **[Your Paper Title Here]** <br>
-    **Haihao SHI**, [Other Authors] <br>
-    *Published in [Journal or Conference Name], 2025* <br>
-    \[[PDF](/files/your-paper.pdf)] \[[Code](https://github.com/your-repo)] \[[Project Page](link-to-project-page)]
+* **[Axion Search via Machine Learning Reveals No Signal in Pulsar Data]** <br>
+    *Quantum Zeitgeist, Aug 2025* <br>
+    A news feature on our research using machine learning methods to analyze pulsar data for axion signals. \[[Read More](https://quantumzeitgeist.com/axion-search-via-machine-learning-reveals-no-signal-in-pulsar-data/)]
 
-* **[Title of the News Article]** <br>
-    *[Name of the Media Outlet], Aug 2025* <br>
-    A news feature on our research using explainable AI to analyze cosmic ray data. \[[Read More](link-to-news-article)]
+* **[Is Dark Matter Spinning Up the Earth? New Research Says Yes]** <br>
+    *NASA Space News, Apr 2025* <br>
+    A news article highlighting our study on the possible influence of dark matter on Earth's rotation. \[[Read More](https://nasaspacenews.com/2025/04/is-dark-matter-spinning-up-the-earth-new-research-says-yes/)]
 
 ---
 
