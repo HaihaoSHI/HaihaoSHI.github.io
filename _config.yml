@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # Currently available options are "default", "air"
-title                    : "homepage！"
+title                    : "homepage"
 title_separator          : "-"
 name                     : "Haihao Shi"
 description              : "A person wandering at the edge of the crowd."
