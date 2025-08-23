@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "This is Haihao Shi's personal homepage"
+title: "Haihao Shi"
 author_profile: true
 redirect_from: 
   - /about/
