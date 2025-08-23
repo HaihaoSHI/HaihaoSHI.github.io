@@ -6,59 +6,29 @@ author_profile: true
 ---
 
 <style>
-  .photo-slider-wrap {
-    position: relative;
-    margin: 1.5rem 0 2.5rem;
-  }
-  .photo-slider {
-    display: flex;
-    gap: 1rem;
-    overflow-x: auto;
-    padding: 0.5rem 0.25rem 1rem;
-    scroll-snap-type: x mandatory;
-    scroll-behavior: smooth;
-  }
-  .photo-slider::-webkit-scrollbar {
-    height: 8px;
-  }
-  .photo-slider::-webkit-scrollbar-thumb {
-    background: #bbb;
-    border-radius: 8px;
-  }
   .slide-photo {
     flex: 0 0 clamp(260px, 40vw, 420px);
+    aspect-ratio: 16 / 9;
     scroll-snap-align: start;
     border-radius: 12px;
     overflow: hidden;
-    box-shadow: 0 4px 16px rgba(0,0,0,.1);
+    box-shadow: 0 4px 16px rgba(0, 0, 0, .1);
   }
+
   .slide-photo img {
     width: 100%;
     height: 100%;
     object-fit: cover;
-    display: block;
+    object-position: center;
   }
-  .nav-btn {
-    position: absolute;
-    top: 40%;
-    translate: 0 -50%;
-    border: none;
-    background: rgba(255,255,255,.9);
-    width: 40px;
-    height: 40px;
-    border-radius: 999px;
-    box-shadow: 0 6px 16px rgba(0,0,0,.12);
-    cursor: pointer;
-    z-index: 2;
-  }
-  .nav-btn:hover { background: #fff; }
-  .nav-prev { left: -6px; }
-  .nav-next { right: -6px; }
-  .nav-btn svg { width: 22px; height: 22px; }
+
   @media (max-width: 640px) {
-    .nav-btn { display: none; } /* 手机上用手指滑就行 */
+    .slide-photo {
+      flex: 0 0 60vw;
+    }
   }
 </style>
+
 
 <div class="photo-slider-wrap">
   <button class="nav-btn nav-prev" aria-label="Previous" data-dir="-1">
